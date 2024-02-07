@@ -41,5 +41,19 @@ architecture Behavioral of LED_demo is
 
 begin
 
+    
+    LED(7 downto 1) <= "0000000";
+    
+    
+    LED(0) <= '1' when ((BTN="0110") AND (SW="1001")) 
+        else '0'; 
+    
+    
+    
+    
+
+
+
+
 
 end Behavioral;
