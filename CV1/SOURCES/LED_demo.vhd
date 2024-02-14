@@ -46,7 +46,7 @@ begin
     
     
     LED(0) <= '1' when ((BTN="0110") AND (SW="1001")) 
-        else '0'; 
+         else '0'; 
     
     
     

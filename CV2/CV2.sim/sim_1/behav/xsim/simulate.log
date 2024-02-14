@@ -1,0 +1,705 @@
+Time resolution is 1 ps
+Warning: Wrong result! a=0 b=1 result= 15 should be = 1
+Time: 12 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=1 result= '1' should be = '0'
+Time: 12 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=2 result= 14 should be = 2
+Time: 22 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=2 result= '1' should be = '0'
+Time: 22 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=3 result= 13 should be = 3
+Time: 32 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=3 result= '1' should be = '0'
+Time: 32 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=4 result= 12 should be = 4
+Time: 42 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=4 result= '1' should be = '0'
+Time: 42 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=5 result= 11 should be = 5
+Time: 52 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=5 result= '1' should be = '0'
+Time: 52 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=6 result= 10 should be = 6
+Time: 62 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=6 result= '1' should be = '0'
+Time: 62 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=7 result= 9 should be = 7
+Time: 72 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=7 result= '1' should be = '0'
+Time: 72 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=8 result= '1' should be = '0'
+Time: 82 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=9 result= 7 should be = 9
+Time: 92 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=9 result= '1' should be = '0'
+Time: 92 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=10 result= 6 should be = 10
+Time: 102 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=10 result= '1' should be = '0'
+Time: 102 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=11 result= 5 should be = 11
+Time: 112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=11 result= '1' should be = '0'
+Time: 112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=12 result= 4 should be = 12
+Time: 122 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=12 result= '1' should be = '0'
+Time: 122 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=13 result= 3 should be = 13
+Time: 132 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=13 result= '1' should be = '0'
+Time: 132 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=14 result= 2 should be = 14
+Time: 142 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=14 result= '1' should be = '0'
+Time: 142 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=0 b=15 result= 1 should be = 15
+Time: 152 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=0 b=15 result= '1' should be = '0'
+Time: 152 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=1 result= 0 should be = 2
+Time: 182 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=2 result= 15 should be = 3
+Time: 192 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=2 result= '1' should be = '0'
+Time: 192 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=3 result= 14 should be = 4
+Time: 202 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=3 result= '1' should be = '0'
+Time: 202 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=4 result= 13 should be = 5
+Time: 212 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=4 result= '1' should be = '0'
+Time: 212 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=5 result= 12 should be = 6
+Time: 222 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=5 result= '1' should be = '0'
+Time: 222 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=6 result= 11 should be = 7
+Time: 232 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=6 result= '1' should be = '0'
+Time: 232 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=7 result= 10 should be = 8
+Time: 242 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=7 result= '1' should be = '0'
+Time: 242 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=8 result= '1' should be = '0'
+Time: 252 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=9 result= 8 should be = 10
+Time: 262 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=9 result= '1' should be = '0'
+Time: 262 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=10 result= 7 should be = 11
+Time: 272 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=10 result= '1' should be = '0'
+Time: 272 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=11 result= 6 should be = 12
+Time: 282 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=11 result= '1' should be = '0'
+Time: 282 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=12 result= 5 should be = 13
+Time: 292 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=12 result= '1' should be = '0'
+Time: 292 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=13 result= 4 should be = 14
+Time: 302 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=13 result= '1' should be = '0'
+Time: 302 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=14 result= 3 should be = 15
+Time: 312 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=1 b=14 result= '1' should be = '0'
+Time: 312 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=1 b=15 result= 2 should be = 0
+Time: 322 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=1 result= 1 should be = 3
+Time: 352 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=2 result= 0 should be = 4
+Time: 362 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=3 result= 15 should be = 5
+Time: 372 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=3 result= '1' should be = '0'
+Time: 372 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=4 result= 14 should be = 6
+Time: 382 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=4 result= '1' should be = '0'
+Time: 382 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=5 result= 13 should be = 7
+Time: 392 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=5 result= '1' should be = '0'
+Time: 392 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=6 result= 12 should be = 8
+Time: 402 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=6 result= '1' should be = '0'
+Time: 402 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=7 result= 11 should be = 9
+Time: 412 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=7 result= '1' should be = '0'
+Time: 412 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=8 result= '1' should be = '0'
+Time: 422 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=9 result= 9 should be = 11
+Time: 432 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=9 result= '1' should be = '0'
+Time: 432 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=10 result= 8 should be = 12
+Time: 442 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=10 result= '1' should be = '0'
+Time: 442 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=11 result= 7 should be = 13
+Time: 452 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=11 result= '1' should be = '0'
+Time: 452 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=12 result= 6 should be = 14
+Time: 462 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=12 result= '1' should be = '0'
+Time: 462 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=13 result= 5 should be = 15
+Time: 472 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=2 b=13 result= '1' should be = '0'
+Time: 472 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=14 result= 4 should be = 0
+Time: 482 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=2 b=15 result= 3 should be = 1
+Time: 492 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=1 result= 2 should be = 4
+Time: 522 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=2 result= 1 should be = 5
+Time: 532 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=3 result= 0 should be = 6
+Time: 542 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=4 result= 15 should be = 7
+Time: 552 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=4 result= '1' should be = '0'
+Time: 552 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=5 result= 14 should be = 8
+Time: 562 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=5 result= '1' should be = '0'
+Time: 562 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=6 result= 13 should be = 9
+Time: 572 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=6 result= '1' should be = '0'
+Time: 572 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=7 result= 12 should be = 10
+Time: 582 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=7 result= '1' should be = '0'
+Time: 582 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=8 result= '1' should be = '0'
+Time: 592 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=9 result= 10 should be = 12
+Time: 602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=9 result= '1' should be = '0'
+Time: 602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=10 result= 9 should be = 13
+Time: 612 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=10 result= '1' should be = '0'
+Time: 612 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=11 result= 8 should be = 14
+Time: 622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=11 result= '1' should be = '0'
+Time: 622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=12 result= 7 should be = 15
+Time: 632 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=3 b=12 result= '1' should be = '0'
+Time: 632 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=13 result= 6 should be = 0
+Time: 642 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=14 result= 5 should be = 1
+Time: 652 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=3 b=15 result= 4 should be = 2
+Time: 662 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=1 result= 3 should be = 5
+Time: 692 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=2 result= 2 should be = 6
+Time: 702 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=3 result= 1 should be = 7
+Time: 712 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=4 result= 0 should be = 8
+Time: 722 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=5 result= 15 should be = 9
+Time: 732 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=5 result= '1' should be = '0'
+Time: 732 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=6 result= 14 should be = 10
+Time: 742 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=6 result= '1' should be = '0'
+Time: 742 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=7 result= 13 should be = 11
+Time: 752 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=7 result= '1' should be = '0'
+Time: 752 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=8 result= '1' should be = '0'
+Time: 762 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=9 result= 11 should be = 13
+Time: 772 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=9 result= '1' should be = '0'
+Time: 772 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=10 result= 10 should be = 14
+Time: 782 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=10 result= '1' should be = '0'
+Time: 782 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=11 result= 9 should be = 15
+Time: 792 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=4 b=11 result= '1' should be = '0'
+Time: 792 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=12 result= 8 should be = 0
+Time: 802 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=13 result= 7 should be = 1
+Time: 812 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=14 result= 6 should be = 2
+Time: 822 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=4 b=15 result= 5 should be = 3
+Time: 832 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=1 result= 4 should be = 6
+Time: 862 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=2 result= 3 should be = 7
+Time: 872 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=3 result= 2 should be = 8
+Time: 882 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=4 result= 1 should be = 9
+Time: 892 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=5 result= 0 should be = 10
+Time: 902 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=6 result= 15 should be = 11
+Time: 912 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=5 b=6 result= '1' should be = '0'
+Time: 912 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=7 result= 14 should be = 12
+Time: 922 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=5 b=7 result= '1' should be = '0'
+Time: 922 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=5 b=8 result= '1' should be = '0'
+Time: 932 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=9 result= 12 should be = 14
+Time: 942 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=5 b=9 result= '1' should be = '0'
+Time: 942 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=10 result= 11 should be = 15
+Time: 952 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=5 b=10 result= '1' should be = '0'
+Time: 952 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=11 result= 10 should be = 0
+Time: 962 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=12 result= 9 should be = 1
+Time: 972 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=13 result= 8 should be = 2
+Time: 982 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=14 result= 7 should be = 3
+Time: 992 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=5 b=15 result= 6 should be = 4
+Time: 1002 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=1 result= 5 should be = 7
+Time: 1032 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=2 result= 4 should be = 8
+Time: 1042 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=3 result= 3 should be = 9
+Time: 1052 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=4 result= 2 should be = 10
+Time: 1062 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=5 result= 1 should be = 11
+Time: 1072 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=6 result= 0 should be = 12
+Time: 1082 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=7 result= 15 should be = 13
+Time: 1092 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=6 b=7 result= '1' should be = '0'
+Time: 1092 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=6 b=8 result= '1' should be = '0'
+Time: 1102 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=9 result= 13 should be = 15
+Time: 1112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=6 b=9 result= '1' should be = '0'
+Time: 1112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=10 result= 12 should be = 0
+Time: 1122 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=11 result= 11 should be = 1
+Time: 1132 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=12 result= 10 should be = 2
+Time: 1142 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=13 result= 9 should be = 3
+Time: 1152 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=14 result= 8 should be = 4
+Time: 1162 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=6 b=15 result= 7 should be = 5
+Time: 1172 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=1 result= 6 should be = 8
+Time: 1202 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=2 result= 5 should be = 9
+Time: 1212 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=3 result= 4 should be = 10
+Time: 1222 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=4 result= 3 should be = 11
+Time: 1232 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=5 result= 2 should be = 12
+Time: 1242 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=6 result= 1 should be = 13
+Time: 1252 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=7 result= 0 should be = 14
+Time: 1262 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=7 b=8 result= '1' should be = '0'
+Time: 1272 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=9 result= 14 should be = 0
+Time: 1282 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=10 result= 13 should be = 1
+Time: 1292 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=11 result= 12 should be = 2
+Time: 1302 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=12 result= 11 should be = 3
+Time: 1312 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=13 result= 10 should be = 4
+Time: 1322 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=14 result= 9 should be = 5
+Time: 1332 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=7 b=15 result= 8 should be = 6
+Time: 1342 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=1 result= 7 should be = 9
+Time: 1372 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=2 result= 6 should be = 10
+Time: 1382 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=3 result= 5 should be = 11
+Time: 1392 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=4 result= 4 should be = 12
+Time: 1402 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=5 result= 3 should be = 13
+Time: 1412 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=6 result= 2 should be = 14
+Time: 1422 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=7 result= 1 should be = 15
+Time: 1432 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=8 b=8 result= '0' should be = '1'
+Time: 1442 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=9 result= 15 should be = 1
+Time: 1452 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=10 result= 14 should be = 2
+Time: 1462 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=11 result= 13 should be = 3
+Time: 1472 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=12 result= 12 should be = 4
+Time: 1482 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=13 result= 11 should be = 5
+Time: 1492 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=14 result= 10 should be = 6
+Time: 1502 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=8 b=15 result= 9 should be = 7
+Time: 1512 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=1 result= 8 should be = 10
+Time: 1542 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=2 result= 7 should be = 11
+Time: 1552 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=3 result= 6 should be = 12
+Time: 1562 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=4 result= 5 should be = 13
+Time: 1572 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=5 result= 4 should be = 14
+Time: 1582 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=6 result= 3 should be = 15
+Time: 1592 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=7 result= 2 should be = 0
+Time: 1602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=9 b=7 result= '0' should be = '1'
+Time: 1602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=9 b=8 result= '0' should be = '1'
+Time: 1612 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=9 result= 0 should be = 2
+Time: 1622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=9 b=9 result= '0' should be = '1'
+Time: 1622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=10 result= 15 should be = 3
+Time: 1632 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=11 result= 14 should be = 4
+Time: 1642 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=12 result= 13 should be = 5
+Time: 1652 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=13 result= 12 should be = 6
+Time: 1662 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=14 result= 11 should be = 7
+Time: 1672 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=9 b=15 result= 10 should be = 8
+Time: 1682 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=1 result= 9 should be = 11
+Time: 1712 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=2 result= 8 should be = 12
+Time: 1722 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=3 result= 7 should be = 13
+Time: 1732 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=4 result= 6 should be = 14
+Time: 1742 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=5 result= 5 should be = 15
+Time: 1752 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=6 result= 4 should be = 0
+Time: 1762 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=10 b=6 result= '0' should be = '1'
+Time: 1762 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=7 result= 3 should be = 1
+Time: 1772 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=10 b=7 result= '0' should be = '1'
+Time: 1772 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=10 b=8 result= '0' should be = '1'
+Time: 1782 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=9 result= 1 should be = 3
+Time: 1792 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=10 b=9 result= '0' should be = '1'
+Time: 1792 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=10 result= 0 should be = 4
+Time: 1802 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=10 b=10 result= '0' should be = '1'
+Time: 1802 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=11 result= 15 should be = 5
+Time: 1812 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=12 result= 14 should be = 6
+Time: 1822 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=13 result= 13 should be = 7
+Time: 1832 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=14 result= 12 should be = 8
+Time: 1842 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=10 b=15 result= 11 should be = 9
+Time: 1852 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=1 result= 10 should be = 12
+Time: 1882 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=2 result= 9 should be = 13
+Time: 1892 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=3 result= 8 should be = 14
+Time: 1902 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=4 result= 7 should be = 15
+Time: 1912 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=5 result= 6 should be = 0
+Time: 1922 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=5 result= '0' should be = '1'
+Time: 1922 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=6 result= 5 should be = 1
+Time: 1932 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=6 result= '0' should be = '1'
+Time: 1932 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=7 result= 4 should be = 2
+Time: 1942 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=7 result= '0' should be = '1'
+Time: 1942 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=8 result= '0' should be = '1'
+Time: 1952 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=9 result= 2 should be = 4
+Time: 1962 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=9 result= '0' should be = '1'
+Time: 1962 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=10 result= 1 should be = 5
+Time: 1972 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=10 result= '0' should be = '1'
+Time: 1972 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=11 result= 0 should be = 6
+Time: 1982 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=11 b=11 result= '0' should be = '1'
+Time: 1982 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=12 result= 15 should be = 7
+Time: 1992 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=13 result= 14 should be = 8
+Time: 2002 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=14 result= 13 should be = 9
+Time: 2012 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=11 b=15 result= 12 should be = 10
+Time: 2022 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=1 result= 11 should be = 13
+Time: 2052 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=2 result= 10 should be = 14
+Time: 2062 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=3 result= 9 should be = 15
+Time: 2072 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=4 result= 8 should be = 0
+Time: 2082 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=4 result= '0' should be = '1'
+Time: 2082 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=5 result= 7 should be = 1
+Time: 2092 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=5 result= '0' should be = '1'
+Time: 2092 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=6 result= 6 should be = 2
+Time: 2102 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=6 result= '0' should be = '1'
+Time: 2102 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=7 result= 5 should be = 3
+Time: 2112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=7 result= '0' should be = '1'
+Time: 2112 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=8 result= '0' should be = '1'
+Time: 2122 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=9 result= 3 should be = 5
+Time: 2132 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=9 result= '0' should be = '1'
+Time: 2132 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=10 result= 2 should be = 6
+Time: 2142 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=10 result= '0' should be = '1'
+Time: 2142 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=11 result= 1 should be = 7
+Time: 2152 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=11 result= '0' should be = '1'
+Time: 2152 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=12 result= 0 should be = 8
+Time: 2162 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=12 b=12 result= '0' should be = '1'
+Time: 2162 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=13 result= 15 should be = 9
+Time: 2172 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=14 result= 14 should be = 10
+Time: 2182 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=12 b=15 result= 13 should be = 11
+Time: 2192 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=1 result= 12 should be = 14
+Time: 2222 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=2 result= 11 should be = 15
+Time: 2232 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=3 result= 10 should be = 0
+Time: 2242 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=3 result= '0' should be = '1'
+Time: 2242 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=4 result= 9 should be = 1
+Time: 2252 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=4 result= '0' should be = '1'
+Time: 2252 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=5 result= 8 should be = 2
+Time: 2262 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=5 result= '0' should be = '1'
+Time: 2262 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=6 result= 7 should be = 3
+Time: 2272 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=6 result= '0' should be = '1'
+Time: 2272 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=7 result= 6 should be = 4
+Time: 2282 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=7 result= '0' should be = '1'
+Time: 2282 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=8 result= '0' should be = '1'
+Time: 2292 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=9 result= 4 should be = 6
+Time: 2302 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=9 result= '0' should be = '1'
+Time: 2302 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=10 result= 3 should be = 7
+Time: 2312 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=10 result= '0' should be = '1'
+Time: 2312 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=11 result= 2 should be = 8
+Time: 2322 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=11 result= '0' should be = '1'
+Time: 2322 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=12 result= 1 should be = 9
+Time: 2332 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=12 result= '0' should be = '1'
+Time: 2332 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=13 result= 0 should be = 10
+Time: 2342 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=13 b=13 result= '0' should be = '1'
+Time: 2342 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=14 result= 15 should be = 11
+Time: 2352 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=13 b=15 result= 14 should be = 12
+Time: 2362 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=1 result= 13 should be = 15
+Time: 2392 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=2 result= 12 should be = 0
+Time: 2402 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=2 result= '0' should be = '1'
+Time: 2402 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=3 result= 11 should be = 1
+Time: 2412 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=3 result= '0' should be = '1'
+Time: 2412 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=4 result= 10 should be = 2
+Time: 2422 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=4 result= '0' should be = '1'
+Time: 2422 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=5 result= 9 should be = 3
+Time: 2432 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=5 result= '0' should be = '1'
+Time: 2432 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=6 result= 8 should be = 4
+Time: 2442 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=6 result= '0' should be = '1'
+Time: 2442 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=7 result= 7 should be = 5
+Time: 2452 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=7 result= '0' should be = '1'
+Time: 2452 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=8 result= '0' should be = '1'
+Time: 2462 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=9 result= 5 should be = 7
+Time: 2472 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=9 result= '0' should be = '1'
+Time: 2472 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=10 result= 4 should be = 8
+Time: 2482 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=10 result= '0' should be = '1'
+Time: 2482 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=11 result= 3 should be = 9
+Time: 2492 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=11 result= '0' should be = '1'
+Time: 2492 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=12 result= 2 should be = 10
+Time: 2502 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=12 result= '0' should be = '1'
+Time: 2502 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=13 result= 1 should be = 11
+Time: 2512 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=13 result= '0' should be = '1'
+Time: 2512 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=14 result= 0 should be = 12
+Time: 2522 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=14 b=14 result= '0' should be = '1'
+Time: 2522 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=14 b=15 result= 15 should be = 13
+Time: 2532 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=1 result= 14 should be = 0
+Time: 2562 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=1 result= '0' should be = '1'
+Time: 2562 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=2 result= 13 should be = 1
+Time: 2572 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=2 result= '0' should be = '1'
+Time: 2572 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=3 result= 12 should be = 2
+Time: 2582 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=3 result= '0' should be = '1'
+Time: 2582 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=4 result= 11 should be = 3
+Time: 2592 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=4 result= '0' should be = '1'
+Time: 2592 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=5 result= 10 should be = 4
+Time: 2602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=5 result= '0' should be = '1'
+Time: 2602 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=6 result= 9 should be = 5
+Time: 2612 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=6 result= '0' should be = '1'
+Time: 2612 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=7 result= 8 should be = 6
+Time: 2622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=7 result= '0' should be = '1'
+Time: 2622 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=8 result= '0' should be = '1'
+Time: 2632 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=9 result= 6 should be = 8
+Time: 2642 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=9 result= '0' should be = '1'
+Time: 2642 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=10 result= 5 should be = 9
+Time: 2652 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=10 result= '0' should be = '1'
+Time: 2652 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=11 result= 4 should be = 10
+Time: 2662 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=11 result= '0' should be = '1'
+Time: 2662 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=12 result= 3 should be = 11
+Time: 2672 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=12 result= '0' should be = '1'
+Time: 2672 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=13 result= 2 should be = 12
+Time: 2682 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=13 result= '0' should be = '1'
+Time: 2682 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=14 result= 1 should be = 13
+Time: 2692 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=14 result= '0' should be = '1'
+Time: 2692 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong result! a=15 b=15 result= 0 should be = 14
+Time: 2702 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
+Warning: Wrong carry! a=15 b=15 result= '0' should be = '1'
+Time: 2702 ns  Iteration: 0  Process: /simple_adder_tb/output_checker  File: C:/Temp/xsvece00/PLD/CV2/SOURCES/simple_adder_tb.vhd
