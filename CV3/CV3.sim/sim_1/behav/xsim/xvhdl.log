@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV3/SOURCES/cnt_bin.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cnt_bin'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV3/SOURCES/cnt_bin_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cnt_bin_tb'
