@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV4/SOURCES/ce_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ce_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV4/SOURCES/debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV4/SOURCES/edge_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'edge_detector'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Temp/xsvece00/PLD/CV4/SOURCES/sync_reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sync_reg'

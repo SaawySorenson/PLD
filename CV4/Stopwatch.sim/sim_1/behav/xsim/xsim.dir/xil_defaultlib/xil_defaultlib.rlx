@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Temp/xsvece00/PLD/CV4/SOURCES/SIM/btn_in_tb.vhd,1678701232,vhdl,,,,btn_in_tb,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/SIM/ce_gen_tb.vhd,1709127590,vhdl,,,,ce_gen_tb,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/btn_in.vhd,1709124648,vhdl,,,,btn_in,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/ce_gen.vhd,1709128376,vhdl,,,,ce_gen,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/debouncer.vhd,1709129439,vhdl,,,,debouncer,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/edge_detector.vhd,1709130146,vhdl,,,,edge_detector,,,,,,,,
+C:/Temp/xsvece00/PLD/CV4/SOURCES/sync_reg.vhd,1709128517,vhdl,,,,sync_reg,,,,,,,,
