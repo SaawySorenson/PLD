@@ -18,7 +18,7 @@ END ENTITY ce_gen;
 ARCHITECTURE Behavioral OF ce_gen IS
 ----------------------------------------------------------------------------------
  --SIGNAL div  : unsigned(63 downto 0) := (OTHERS => '0');
-SIGNAL div  :   INTEGER RANGE 0 TO 255 := 0;
+SIGNAL div  :   INTEGER RANGE 0 TO G_DIV_FACT := 0;
 SIGNAL hold :   STD_LOGIC := '0';
   
 ----------------------------------------------------------------------------------

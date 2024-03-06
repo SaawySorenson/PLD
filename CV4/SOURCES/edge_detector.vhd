@@ -19,7 +19,7 @@ SIGNAL sig_in_del : STD_LOGIC := '0';
 ----------------------------------------------------------------------------------
 BEGIN
 ----------------------------------------------------------------------------------
-PROCESS BEGIN 
+PROCESS (clk) BEGIN 
     IF rising_edge(clk) THEN 
         IF sig_in_del = '1' AND sig_in = '0' THEN 
             edge_any <= '1';

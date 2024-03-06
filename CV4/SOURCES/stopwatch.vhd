@@ -27,41 +27,43 @@ SIGNAL counter_3 : INTEGER RANGE 0 to 255 := 0;
 BEGIN
 ----------------------------------------------------------------------------------
   -- BCD counter
-PROCESS BEGIN 
+PROCESS (clk) BEGIN 
     IF rising_edge(clk) THEN 
-        IF cnt_reset = '1' THEN 
-            counter_0 <= 0;
-            counter_1 <= 0;
-            counter_2 <= 0;
-            counter_3 <= 0;
-        END IF;
-        IF cnt_enable = '1' THEN 
-              counter_0  <= counter_0 + 1;
-              IF counter_0 = 10 THEN 
-                  counter_0 <= 0;
-                  counter_1 <= counter_1 + 1;
-              END IF;
-              IF counter_1 = 10 THEN 
-                  counter_1 <= 0;
-                  counter_2 <= counter_2 + 1;
-              END IF;
-              IF counter_2 = 10 THEN 
-                  counter_2 <= 0;
-                  counter_3 <= counter_3 + 1;
-              END IF;
-              IF counter_3 = 6 THEN 
-                  counter_3 <= 0;
-              END IF;    
-        END IF; 
-        
-        IF disp_enable = '1' THEN 
-            cnt_0 <= std_logic_vector(counter_0); 
-            cnt_1 <= std_logic_vector(counter_1);
-            cnt_2 <= std_logic_vector(counter_2);
-            cnt_3 <= std_logic_vector(counter_3);
-        END IF;
-        
-    END IF;   
+        IF ce_100hz = '1' THEN
+            IF cnt_reset = '1' THEN 
+                counter_0 <= 0;
+                counter_1 <= 0;
+                counter_2 <= 0;
+                counter_3 <= 0;
+            END IF;
+            IF cnt_enable = '1' THEN 
+                  counter_0  <= counter_0 + 1;
+                  IF counter_0 = 9 THEN 
+                      counter_0 <= 0;
+                      counter_1 <= counter_1 + 1;
+                  END IF;
+                  IF counter_1 = 9 THEN 
+                      counter_1 <= 0;
+                      counter_2 <= counter_2 + 1;
+                  END IF;
+                  IF counter_2 = 9 THEN 
+                      counter_2 <= 0;
+                      counter_3 <= counter_3 + 1;
+                  END IF;
+                  IF counter_3 = 6 THEN 
+                      counter_3 <= 0;
+                  END IF;    
+            END IF; 
+            
+            IF disp_enable = '1' THEN 
+                cnt_0 <= std_logic_vector(TO_UNSIGNED(counter_0,4)); 
+                cnt_1 <= std_logic_vector(TO_UNSIGNED(counter_1,4));
+                cnt_2 <= std_logic_vector(TO_UNSIGNED(counter_2,4));
+                cnt_3 <= std_logic_vector(TO_UNSIGNED(counter_3,4));
+            END IF;
+            
+        END IF;  
+    END IF;         
 END PROCESS;
 
   --------------------------------------------------------------------------------

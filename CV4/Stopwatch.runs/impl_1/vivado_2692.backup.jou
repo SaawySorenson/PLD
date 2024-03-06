@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Mar  6 15:08:35 2024
+# Process ID: 2692
+# Current directory: C:/Temp/xsvece00/PLD/CV4/Stopwatch.runs/impl_1
+# Command line: vivado.exe -log stopwatch_fsm.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source stopwatch_fsm.tcl -notrace
+# Log file: C:/Temp/xsvece00/PLD/CV4/Stopwatch.runs/impl_1/stopwatch_fsm.vdi
+# Journal file: C:/Temp/xsvece00/PLD/CV4/Stopwatch.runs/impl_1\vivado.jou
+# Running On: PC-079, OS: Windows, CPU Frequency: 3300 MHz, CPU Physical cores: 4, Host memory: 8538 MB
+#-----------------------------------------------------------
+source stopwatch_fsm.tcl -notrace
