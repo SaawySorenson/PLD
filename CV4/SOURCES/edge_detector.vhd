@@ -19,9 +19,9 @@ SIGNAL sig_in_del : STD_LOGIC := '0';
 ----------------------------------------------------------------------------------
 BEGIN
 ----------------------------------------------------------------------------------
-PROCESS (clk) BEGIN 
+PROCESS (clk, sig_in) BEGIN 
     IF rising_edge(clk) THEN 
-        IF sig_in_del = '1' AND sig_in = '0' THEN 
+        IF sig_in = '1' AND sig_in = '0' THEN 
             edge_any <= '1';
             edge_neg <= '1';
             edge_pos <= '0'; 
@@ -34,8 +34,8 @@ PROCESS (clk) BEGIN
             edge_neg <= '0';
             edge_pos <= '0';            
         END IF;        
-    END IF;
-    sig_in_del <= sig_in;
+        sig_in_del <= sig_in;
+    END IF;   
 END PROCESS;
 
 

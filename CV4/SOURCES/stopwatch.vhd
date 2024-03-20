@@ -35,24 +35,25 @@ PROCESS (clk) BEGIN
                 counter_1 <= 0;
                 counter_2 <= 0;
                 counter_3 <= 0;
-            END IF;
-            IF cnt_enable = '1' THEN 
-                  counter_0  <= counter_0 + 1;
-                  IF counter_0 = 9 THEN 
-                      counter_0 <= 0;
-                      counter_1 <= counter_1 + 1;
-                  END IF;
-                  IF counter_1 = 9 THEN 
-                      counter_1 <= 0;
-                      counter_2 <= counter_2 + 1;
-                  END IF;
-                  IF counter_2 = 9 THEN 
-                      counter_2 <= 0;
-                      counter_3 <= counter_3 + 1;
-                  END IF;
-                  IF counter_3 = 6 THEN 
-                      counter_3 <= 0;
-                  END IF;    
+             ELSE
+                IF cnt_enable = '1' THEN 
+                      counter_0  <= counter_0 + 1;
+                      IF counter_0 = 9 THEN 
+                          counter_0 <= 0;
+                          counter_1 <= counter_1 + 1;
+                      END IF;
+                      IF counter_1 = 9 THEN 
+                          counter_1 <= 0;
+                          counter_2 <= counter_2 + 1;
+                      END IF;
+                      IF counter_2 = 9 THEN 
+                          counter_2 <= 0;
+                          counter_3 <= counter_3 + 1;
+                      END IF;
+                      IF counter_3 = 6 THEN 
+                          counter_3 <= 0;
+                      END IF;    
+                END IF;
             END IF; 
             
             IF disp_enable = '1' THEN 
