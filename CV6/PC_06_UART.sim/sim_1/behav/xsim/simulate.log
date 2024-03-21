@@ -1,8 +1,0 @@
-Time resolution is 1 ps
-Note: ================================================================
-Time: 30700 ns  Iteration: 0  Process: /uart_tx_tb/proc_uart_tx_stimuli  File: C:/Temp/xsvece00/PLD/CV6/SOURCES/uart_tx_tb.vhd
-Note: Simulation finished!
-Time: 30700 ns  Iteration: 0  Process: /uart_tx_tb/proc_uart_tx_stimuli  File: C:/Temp/xsvece00/PLD/CV6/SOURCES/uart_tx_tb.vhd
-Failure: ================================================================
-Time: 30700 ns  Iteration: 0  Process: /uart_tx_tb/proc_uart_tx_stimuli  File: C:/Temp/xsvece00/PLD/CV6/SOURCES/uart_tx_tb.vhd
-$finish called at time : 30700 ns : File "C:/Temp/xsvece00/PLD/CV6/SOURCES/uart_tx_tb.vhd" Line 118
