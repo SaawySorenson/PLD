@@ -1,0 +1,1 @@
+vio_0.vhd,vhdl,xil_defaultlib,../../../../SOURCES/ips/vio_0/sim/vio_0.vhd,incdir="../../../../SOURCES/ips/vio_0/hdl/verilog"incdir="../../../../SOURCES/ips/vio_0/hdl"

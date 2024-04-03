@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../SOURCES/ips/ILA_PWM/sim/ILA_PWM.vhd" \
+
+nosort

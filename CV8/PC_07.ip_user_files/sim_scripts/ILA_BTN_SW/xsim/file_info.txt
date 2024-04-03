@@ -1,0 +1,2 @@
+ILA_BTN_SW.vhd,vhdl,xil_defaultlib,../../../../SOURCES/ips/ILA_BTN_SW/sim/ILA_BTN_SW.vhd,incdir="../../../../SOURCES/ips/ILA_BTN_SW/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v

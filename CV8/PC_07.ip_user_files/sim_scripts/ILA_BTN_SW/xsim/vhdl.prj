@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../SOURCES/ips/ILA_BTN_SW/sim/ILA_BTN_SW.vhd" \
+
+nosort

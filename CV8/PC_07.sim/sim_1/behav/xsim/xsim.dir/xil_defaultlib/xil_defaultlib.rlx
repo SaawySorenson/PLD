@@ -1,0 +1,12 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Temp/xsvece00/PLD/CV7/SOURCES/btn_in.vhd,1709283450,vhdl,,,,btn_in,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/btn_in/debouncer.vhd,1709289664,vhdl,,,,debouncer,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/btn_in/edge_detector.vhd,1709286130,vhdl,,,,edge_detector,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/btn_in/sync_reg.vhd,1709285926,vhdl,,,,sync_reg,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/ce_gen.vhd,1709285206,vhdl,,,,ce_gen,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/pwm_driver.vhd,1711546875,vhdl,,,,pwm_driver,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/pwm_driver_tb.vhd,1618395208,vhdl,,,,pwm_driver_tb,,,,,,,,
+C:/Temp/xsvece00/PLD/CV7/SOURCES/rp_top.vhd,1711545327,vhdl,,,,rp_top,,,,,,,,

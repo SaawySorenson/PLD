@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../SOURCES/ips/vio_0/sim/vio_0.vhd" \
+
+nosort
