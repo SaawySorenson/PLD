@@ -1,0 +1,57 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Apr 10 12:59:01 2024
+# Process ID: 10496
+# Current directory: C:/Temp/xsvece00/PLD/CV9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10564 C:\Temp\xsvece00\PLD\CV9\PC_09.xpr
+# Log file: C:/Temp/xsvece00/PLD/CV9/vivado.log
+# Journal file: C:/Temp/xsvece00/PLD/CV9\vivado.jou
+# Running On: PC-079, OS: Windows, CPU Frequency: 3300 MHz, CPU Physical cores: 4, Host memory: 8538 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Temp/xsvece00/PLD/CV9/PC_09.xpr
+update_compile_order -fileset sources_1
+create_ip -name fir_compiler -vendor xilinx.com -library ip -version 7.2 -module_name FIR_50k -dir C:/Temp/xsvece00/PLD/CV9/SOURCES/IP
+set_property -dict [list CONFIG.Component_Name {FIR_50k} CONFIG.CoefficientSource {COE_File} CONFIG.Coefficient_File {C:/Temp/xsvece00/PLD/CV9/SOURCES/MATLAB/FIR_50k.coe} CONFIG.Sample_Frequency {6.25} CONFIG.Clock_Frequency {50.0} CONFIG.Coefficient_Width {12} CONFIG.Data_Width {9} CONFIG.Output_Rounding_Mode {Truncate_LSBs} CONFIG.Output_Width {9} CONFIG.Coefficient_Sets {1} CONFIG.Coefficient_Sign {Signed} CONFIG.Quantization {Integer_Coefficients} CONFIG.Coefficient_Fractional_Bits {0} CONFIG.Coefficient_Structure {Inferred} CONFIG.Data_Fractional_Bits {0} CONFIG.Filter_Architecture {Systolic_Multiply_Accumulate} CONFIG.ColumnConfig {4}] [get_ips FIR_50k]
+generate_target {instantiation_template} [get_files c:/Temp/xsvece00/PLD/CV9/SOURCES/IP/FIR_50k/FIR_50k.xci]
+update_compile_order -fileset sources_1
+generate_target all [get_files  c:/Temp/xsvece00/PLD/CV9/SOURCES/IP/FIR_50k/FIR_50k.xci]
+catch { config_ip_cache -export [get_ips -all FIR_50k] }
+export_ip_user_files -of_objects [get_files c:/Temp/xsvece00/PLD/CV9/SOURCES/IP/FIR_50k/FIR_50k.xci] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] c:/Temp/xsvece00/PLD/CV9/SOURCES/IP/FIR_50k/FIR_50k.xci]
+launch_runs FIR_50k_synth_1 -jobs 2
+wait_on_run FIR_50k_synth_1
+export_simulation -of_objects [get_files c:/Temp/xsvece00/PLD/CV9/SOURCES/IP/FIR_50k/FIR_50k.xci] -directory C:/Temp/xsvece00/PLD/CV9/PC_09.ip_user_files/sim_scripts -ip_user_files_dir C:/Temp/xsvece00/PLD/CV9/PC_09.ip_user_files -ipstatic_source_dir C:/Temp/xsvece00/PLD/CV9/PC_09.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Temp/xsvece00/PLD/CV9/PC_09.cache/compile_simlib/modelsim} {questa=C:/Temp/xsvece00/PLD/CV9/PC_09.cache/compile_simlib/questa} {riviera=C:/Temp/xsvece00/PLD/CV9/PC_09.cache/compile_simlib/riviera} {activehdl=C:/Temp/xsvece00/PLD/CV9/PC_09.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+launch_simulation
+source FIR_50k_TB.tcl
+run all
+relaunch_sim
+run all
+relaunch_sim
+run all
+relaunch_sim
+run all
+relaunch_sim
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+relaunch_sim
+relaunch_sim
+run all
+relaunch_sim
+run all
+relaunch_sim
+run all
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run all
+relaunch_sim
+run all
+relaunch_sim
+relaunch_sim
+close_sim
