@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="rp_demo" location="C:/Temp/xsvece00/PLD/CV11/SOURCES/SDK_workspace/rp_demo" platform="C:/Temp/xsvece00/PLD/CV11/SOURCES/SDK_workspace/zync_blockdesign_wrapper/export/zync_blockdesign_wrapper/zync_blockdesign_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="rp_demo_system" sysConfig="zync_blockdesign_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="539298963fef51222265e9693458f26a">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1364244351">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1312196555" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

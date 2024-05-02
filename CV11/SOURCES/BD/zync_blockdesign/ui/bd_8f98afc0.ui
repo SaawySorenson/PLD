@@ -1,0 +1,60 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_Layers":"/rst_ps7_0_125M_peripheral_aresetn:true|/processing_system7_0_FCLK_CLK0:true|/processing_system7_0_FCLK_RESET0_N:true|",
+   "Default View_ScaleFactor":"0.82623",
+   "Default View_TopLeft":"-91,0",
+   "Display-PortTypeClock":"true",
+   "Display-PortTypeReset":"true",
+   "ExpandedHierarchyInLayout":"",
+   "Interfaces View_ExpandedHierarchyInLayout":"",
+   "Interfaces View_Layers":"/rst_ps7_0_125M_peripheral_aresetn:false|/processing_system7_0_FCLK_CLK0:false|/processing_system7_0_FCLK_RESET0_N:false|",
+   "Interfaces View_Layout":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port FIXED_IO_0 -pg 1 -lvl 4 -x 1310 -y 220 -defaultsOSRD
+preplace port DDR_0 -pg 1 -lvl 4 -x 1310 -y 200 -defaultsOSRD
+preplace port UART_0_0 -pg 1 -lvl 4 -x 1310 -y 240 -defaultsOSRD
+preplace port gpio_rtl_0 -pg 1 -lvl 4 -x 1310 -y 280 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -x 510 -y 240 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 3 -x 1170 -y 280 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 2 -x 890 -y 280 -defaultsOSRD
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 6 20 50n 360 270n 680 270n N 270n 1130 270n N
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 6 20 250n NJ 250n NJ 250n N 250n 1150 250n N
+preplace netloc rst_ps7_0_125M_peripheral_aresetn 1 1 3 370 240n 690J 240n N
+preplace netloc processing_system7_0_FIXED_IO 1 1 3 700J 210 N 210 1270
+preplace netloc processing_system7_0_DDR 1 1 3 680J 190 N 190 1290
+preplace netloc processing_system7_0_UART_0 1 1 3 690J 200 N 200 1280
+preplace netloc axi_gpio_0_GPIO 1 3 1 N 280
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 1 690 280n
+preplace netloc ps7_0_axi_periph_M00_AXI 1 2 1 N 280
+levelinfo -pg 1 0 510 890 1170 1310
+pagesize -pg 1 -db -bbox -sgen 0 0 1440 360
+",
+   "Interfaces View_ScaleFactor":"1.0",
+   "Interfaces View_TopLeft":"-117,-125",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port FIXED_IO_0 -pg 1 -lvl 4 -x 1170 -y 370 -defaultsOSRD
+preplace port DDR_0 -pg 1 -lvl 4 -x 1170 -y 350 -defaultsOSRD
+preplace port UART_0_0 -pg 1 -lvl 4 -x 1170 -y 390 -defaultsOSRD
+preplace port gpio_rtl_0 -pg 1 -lvl 4 -x 1170 -y 140 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 3 -x 910 -y 440 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 3 -x 910 -y 140 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 2 -x 530 -y 120 -defaultsOSRD
+preplace inst rst_ps7_0_125M -pg 1 -lvl 1 -x 190 -y 150 -defaultsOSRD
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 4 20 50 360 270 680 270 1130
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 4 20 250 NJ 250 NJ 250 1150
+preplace netloc rst_ps7_0_125M_peripheral_aresetn 1 1 2 370 240 690J
+preplace netloc processing_system7_0_FIXED_IO 1 3 1 NJ 370
+preplace netloc processing_system7_0_DDR 1 3 1 NJ 350
+preplace netloc processing_system7_0_UART_0 1 3 1 NJ 390
+preplace netloc axi_gpio_0_GPIO 1 3 1 NJ 140
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 3 380 260 NJ 260 1140
+preplace netloc ps7_0_axi_periph_M00_AXI 1 2 1 N 120
+levelinfo -pg 1 0 190 530 910 1170
+pagesize -pg 1 -db -bbox -sgen 0 0 1300 610
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_board_cnt":"1"
+}
